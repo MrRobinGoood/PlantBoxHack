@@ -23,7 +23,7 @@
 - Склонируйте репозиторий
 - создайте виртуальную среду командой ```python -m venv venv``` или укажите свою конфигурацию запуска
 - используя venv активируйте его ```venv/Scripts/Activate```
-- подгрузка зависимостей файла requirements.txt
+- подгрузка зависимостей файла requirements.txt командами pip install
 
 Для работы клиент-серверного приложения необходимо запустить файл [app.py](https://github.com/MrRobinGoood/PlantBoxHack/blob/master/app.py)
 Для запуска анализа PDF файла, поиска информации о лекаственных травах, необходимо запускать файл [main.py](https://github.com/MrRobinGoood/PlantBoxHack/blob/master/main.py)
